@@ -60,4 +60,4 @@ const ejercicio4 = cursos.filter(
 );
 
 console.log("Ejercicio 4");
-console.log(ejercicio4);
+console.log(ejercicio4); 
